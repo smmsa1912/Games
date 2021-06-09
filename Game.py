@@ -125,7 +125,7 @@ def main():
         print(' As Computer Choosed,' , Com)
     elif ' You Lose':
         print(' As Computer Choosed,' , Com)
-    elif (' Match Draw'):
+    elif ' Match Draw':
         print('As Computer Also Choosed' + ' ' + com)
     else:
         print('Server Priblem :( Try Again! :(')
