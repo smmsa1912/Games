@@ -7,6 +7,10 @@ to play Rock Paper Scissor
 
 You need Python3 in your terminal 
 
+Just type the following command
+
+cd Games
+
 install requirements.txt by typing this command
 
 pip3 install requirements.txt 
