@@ -121,11 +121,13 @@ def main():
         time.sleep(1)
         quit()
     time.sleep(1.5)
-    if 'Match Draw':
-        print('As Computer Also Choosed' + ' ' + com)
-    else:
-        print(' As Computer Choosed,' , Com)
 
+    if ' You Won':
+        print(' As Computer Choosed,' , Com)
+    elif ' You Lose':
+        print(' As Computer Choosed,' , Com)
+    elif ' MAtch Over':
+        print('As Computer Also Choosed' + ' ' + com)
    #play Again
     
     a = 'yes'
