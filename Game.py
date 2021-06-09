@@ -126,7 +126,7 @@ def main():
         print(' As Computer Choosed,' , Com)
     elif ' You Lose':
         print(' As Computer Choosed,' , Com)
-    elif ' MAtch Over':
+    else:
         print('As Computer Also Choosed' + ' ' + com)
    #play Again
     
