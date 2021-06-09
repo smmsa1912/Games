@@ -217,4 +217,6 @@ def main():
         quit()
      else:
          print('Sry, Try Again Later! :(')
+         time.sleep(1)
+         quit()
 main()
