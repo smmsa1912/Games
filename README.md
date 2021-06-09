@@ -17,6 +17,9 @@ pip3 install requirements.txt
 or
 pip install requirements.txt
 
+if the above command not works hust type this
+pip3 install sys sleep-parameters random
+or pip install sys sleep-parameters random
 
 and now all set now to can play Rock Paper Scissor 
 by typing this command
