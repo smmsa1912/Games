@@ -123,7 +123,7 @@ def main():
     time.sleep(1.5)
 
     if ' Match Draw' or 'Match Draw':
-        print(('As Computer Also Choosed' + ' ' + com))
+        print('As Computer Also Choosed' + ' ' + com)
     elif ' You Won':
         print(' As Computer Choosed,' , Com)
     elif ' You Lose':
