@@ -134,6 +134,7 @@ def main():
         print('As Computer Also Choosed' + ' ' + com)
     else:
         print('Sry :( Server Problem!...')
+        quit()
 
 
    #play Again
