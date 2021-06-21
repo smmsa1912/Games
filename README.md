@@ -1,7 +1,7 @@
 # Games
 Variety Of Games 
 
-Game.py = Rock Paper Scissor
+Rock Paper Scissor
 
 to play Rock Paper Scissor
 
@@ -25,6 +25,6 @@ or pip install sleep-parameters random2
 and now all set now to can play Rock Paper Scissor 
 by typing this command
 
-python3 Game.py
+python3 Rock Paper Scissor.py
 
 Boom!! Now you can Play Rock Paper Scissor
