@@ -16,22 +16,8 @@ Just type the following command
 cd Games
 
 
-install requirements.txt by typing this command
-
-
-pip3 install requirements.txt 
-
-or
-
-pip install requirements.txt
-
-
-if the above command not works hust type this
-
-
-pip3 install sleep-parameters random2
-
-or pip install sleep-parameters random2
+first install require by typing:
+bash require.sh
 
 
 and now all set now to can play Rock Paper Scissor 
