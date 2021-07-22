@@ -25,7 +25,7 @@ and now all set now to can play Rock Paper Scissor
 by typing this command
 
 
-python3 'Rock Paper Scissor'.py
+python3 Rock-Paper-Scissor.py
 
 
 Boom!! Now you can Play Rock Paper Scissor
