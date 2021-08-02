@@ -17,7 +17,7 @@ cd Games
 
 
 first install require by typing:
-bash require.sh
+bash require.sh  or  ./require.sh
 
 
 and now all set now to can play Rock Paper Scissor 
